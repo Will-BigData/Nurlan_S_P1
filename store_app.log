@@ -1,0 +1,25 @@
+2024-10-22 18:44:03,996 - INFO - Connected to the database successfully.
+2024-10-22 18:44:08,798 - INFO - Application exited by the user.
+2024-10-22 19:10:59,251 - INFO - Connected to the database successfully.
+2024-10-22 19:11:10,723 - INFO - User 'user1' registered successfully.
+2024-10-22 19:11:23,633 - INFO - User 'user1' logged in successfully with role 'user'.
+2024-10-22 19:11:32,752 - INFO - User 'user1' viewed all products.
+2024-10-22 19:11:37,347 - INFO - User 'user1' logged out.
+2024-10-22 19:11:41,576 - INFO - Connected to the database successfully.
+2024-10-22 19:11:53,390 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-22 19:11:56,416 - INFO - Admin viewed all users.
+2024-10-22 19:12:51,523 - INFO - Admin added product 'Silent Hill 2'.
+2024-10-22 19:13:36,736 - INFO - Admin added product 'Resident Evil 2'.
+2024-10-22 19:14:21,725 - INFO - Admin added product 'Gravity Rush'.
+2024-10-22 19:14:29,540 - INFO - Admin viewed all orders.
+2024-10-22 19:14:34,862 - INFO - Admin viewed all users.
+2024-10-22 19:14:43,355 - INFO - Admin logged out.
+2024-10-22 19:30:04,273 - INFO - Connected to the database successfully.
+2024-10-22 19:30:09,135 - INFO - Application exited by the user.
+2024-10-23 20:49:28,813 - INFO - Connected to the database successfully.
+2024-10-23 20:51:10,809 - INFO - User 'Admin' logged in successfully with role 'admin'.
+2024-10-23 20:52:06,180 - INFO - Admin logged out.
+2024-10-23 20:52:08,217 - INFO - Connected to the database successfully.
+2024-10-23 20:52:17,971 - WARNING - Failed login attempt for user 'user1'.
+2024-10-23 20:52:28,321 - INFO - User 'user1' logged in successfully with role 'user'.
+2024-10-23 20:59:51,219 - INFO - User 'user1' logged out.
