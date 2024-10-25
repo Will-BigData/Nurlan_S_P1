@@ -23,3 +23,53 @@
 2024-10-23 20:52:17,971 - WARNING - Failed login attempt for user 'user1'.
 2024-10-23 20:52:28,321 - INFO - User 'user1' logged in successfully with role 'user'.
 2024-10-23 20:59:51,219 - INFO - User 'user1' logged out.
+2024-10-25 09:17:47,879 - INFO - Connected to the database successfully.
+2024-10-25 09:18:21,912 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-25 09:18:28,122 - INFO - Admin viewed all users.
+2024-10-25 09:18:47,382 - INFO - Admin viewed all products.
+2024-10-25 09:19:10,420 - ERROR - Invalid input while adding a product.
+2024-10-25 09:19:20,511 - INFO - Admin logged out.
+2024-10-25 09:36:31,664 - INFO - Connected to the database successfully.
+2024-10-25 09:36:46,383 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-25 09:36:51,524 - INFO - Admin viewed all orders.
+2024-10-25 09:36:58,532 - INFO - Admin viewed all users.
+2024-10-25 09:37:10,389 - INFO - Admin logged out.
+2024-10-25 09:37:14,144 - INFO - Connected to the database successfully.
+2024-10-25 09:37:24,024 - INFO - User 'user1' logged in successfully with role 'user'.
+2024-10-25 09:37:45,204 - INFO - User 'user1' placed an order for product ID '1' with quantity '2'.
+2024-10-25 09:37:49,764 - INFO - User 'user1' viewed their orders.
+2024-10-25 09:38:20,172 - INFO - User 'user1' viewed all products.
+2024-10-25 09:38:51,637 - INFO - User 'user1' logged out.
+2024-10-25 10:16:48,892 - INFO - Connected to the database successfully.
+2024-10-25 10:17:11,127 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-25 10:17:18,136 - INFO - Admin viewed all users.
+2024-10-25 10:17:27,800 - INFO - Admin viewed all products.
+2024-10-25 10:18:12,689 - INFO - Admin added product 'The legend of zelda'.
+2024-10-25 10:18:15,375 - INFO - Admin viewed all users.
+2024-10-25 10:18:21,068 - INFO - Admin viewed all products.
+2024-10-25 10:18:33,915 - INFO - Admin viewed all orders.
+2024-10-25 10:19:23,606 - INFO - Admin logged out.
+2024-10-25 10:19:26,377 - INFO - Connected to the database successfully.
+2024-10-25 10:19:38,001 - INFO - User 'user2' registered successfully.
+2024-10-25 10:19:44,914 - INFO - User 'user2' logged in successfully with role 'user'.
+2024-10-25 10:19:54,274 - INFO - User 'user2' viewed their orders.
+2024-10-25 10:20:15,008 - INFO - User 'user2' viewed all products.
+2024-10-25 10:20:26,973 - INFO - User 'user2' placed an order for product ID '4' with quantity '3'.
+2024-10-25 10:20:30,083 - INFO - User 'user2' viewed all products.
+2024-10-25 10:20:37,564 - INFO - User 'user2' viewed their orders.
+2024-10-25 10:21:10,736 - INFO - User 'user2' updated order ID '2'.
+2024-10-25 10:21:14,959 - INFO - User 'user2' viewed all products.
+2024-10-25 10:21:25,185 - INFO - User 'user2' viewed their orders.
+2024-10-25 10:21:41,599 - INFO - User 'user2' deleted order ID '1'.
+2024-10-25 10:21:54,093 - INFO - User 'user2' deleted order ID '2'.
+2024-10-25 10:21:57,912 - INFO - User 'user2' viewed all products.
+2024-10-25 10:22:06,360 - INFO - User 'user2' viewed their orders.
+2024-10-25 10:22:10,038 - INFO - User 'user2' logged out.
+2024-10-25 10:22:12,732 - INFO - Connected to the database successfully.
+2024-10-25 10:22:20,985 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-25 10:22:25,407 - INFO - Admin viewed all users.
+2024-10-25 10:22:35,379 - INFO - Admin deleted user 'admin'.
+2024-10-25 10:22:38,873 - INFO - Admin viewed all users.
+2024-10-25 10:23:42,210 - INFO - Connected to the database successfully.
+2024-10-25 10:25:32,887 - INFO - User 'admin' logged in successfully with role 'admin'.
+2024-10-25 10:25:34,551 - INFO - Admin logged out.

@@ -145,7 +145,7 @@ while True:
                 print("Enter product Stock:")
                 stock = int(input("Input: "))
                 product_service.update_product(id, name, description, price, stock)
-                logging.info(f"Admin updated product with ID '{product_id}'.")
+                logging.info(f"Admin updated product with ID '{id}'.")
             except ValueError:
                 print("Invalid input.")
                 logging.error("Invalid input while updating a product.")
@@ -155,7 +155,7 @@ while True:
                 print("Enter product ID:")
                 id = int(input("Input: "))
                 product_service.delete_product(id)
-                logging.info(f"Admin deleted product with ID '{product_id}'.")
+                logging.info(f"Admin deleted product with ID '{id}'.")
             except ValueError:
                 print("Invalid input.")
                 logging.error("Invalid input while deleting a product.")
